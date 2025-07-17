@@ -75,7 +75,7 @@ serror_rate = st.number_input("SYN Error Rate (serror_rate)", min_value=0.0, max
 srv_serror_rate = st.number_input("Service SYN Error Rate (srv_serror_rate)", min_value=0.0, max_value=1.0, value=0.0)
 
 
-# ✅ Predict
+# Predict
 
 if st.button("🚦 Predict"):
     input_data = {
@@ -110,4 +110,4 @@ if st.button("🚦 Predict"):
     st.write(f"**Autoencoder:** {ae_anomaly}")
     st.write(f"**MSE:** {mse:.6f} vs Threshold: {threshold:.6f}")
 
-st.info("ℹ️ Tip: Use realistic values for best results!")
+st.info(" Tip: Use realistic values for best results!")
