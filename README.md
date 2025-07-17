@@ -46,10 +46,8 @@ streamlit run app.py
 
 Your browser will open with the interactive application.
 
-### Project Structure
-network-anomaly-detector
 
-## 📁 Project Structure
+## Project Structure
 
 The folder contains the following important files:
 
