@@ -49,10 +49,10 @@ Your browser will open with the interactive application.
 ### Project Structure
 network-anomaly-detector
 
-app.py               # Streamlit app script
-kddcup.csv           # Dataset file
-requirements.txt     # Required libraries with versions
-README.md            # Project documentation
+- app.py               # Streamlit app script
+- kddcup.csv           # Dataset file
+- requirements.txt     # Required libraries with versions
+- README.md            # Project documentation
 
 
 ### Required Python Libraries
@@ -66,7 +66,7 @@ Your requirements.txt file should include:
 
 You can update these if you use different versions.
 
-Why This Matters
+### Why This Matters
 Detecting anomalies in network traffic is important for spotting cyberattacks like DDoS, port scans, or intrusions. This app is a small but powerful example of how machine learning can help automate that detection.
 
 ### Acknowledgements
