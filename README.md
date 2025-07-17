@@ -46,9 +46,8 @@ streamlit run app.py
 
 Your browser will open with the interactive application.
 
-Project Structure
-
-### network-anomaly-detector
+### Project Structure
+network-anomaly-detector
 
 app.py               # Streamlit app script
 kddcup.csv           # Dataset file
@@ -56,14 +55,14 @@ requirements.txt     # Required libraries with versions
 README.md            # Project documentation
 
 
-Required Python Libraries
+### Required Python Libraries
 Your requirements.txt file should include:
 
-streamlit==1.35.0
-pandas==2.2.2
-numpy==1.26.4
-scikit-learn==1.4.2
-tensorflow==2.16.1
+- streamlit==1.35.0
+- pandas==2.2.2
+- numpy==1.26.4
+- scikit-learn==1.4.2
+- tensorflow==2.16.1
 
 You can update these if you use different versions.
 
@@ -72,7 +71,7 @@ Detecting anomalies in network traffic is important for spotting cyberattacks li
 
 ### Acknowledgements
 
-KDD Cup 1999 Dataset
-scikit-learn for Isolation Forest
-TensorFlow/Keras for Autoencoder
-Streamlit for building the interactive web app
+- KDD Cup 1999 Dataset
+- scikit-learn for Isolation Forest
+- TensorFlow/Keras for Autoencoder
+- Streamlit for building the interactive web app
