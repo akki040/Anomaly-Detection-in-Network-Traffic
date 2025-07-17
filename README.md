@@ -2,7 +2,7 @@
 
 This project is a web-based tool that helps detect unusual or potentially harmful network activity using machine learning. It is designed to be beginner-friendly and easy to use, even if you're new to machine learning.
 
-## What This App Does
+What This App Does
 
 - Lets you input details about a network connection (like protocol type, service, bytes sent/received).
 - Uses two models — Isolation Forest and Autoencoder — to analyze the input.
