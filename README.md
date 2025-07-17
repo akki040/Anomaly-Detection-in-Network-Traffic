@@ -49,10 +49,15 @@ Your browser will open with the interactive application.
 ### Project Structure
 network-anomaly-detector
 
-- app.py               # Streamlit app script
-- kddcup.csv           # Dataset file
-- requirements.txt     # Required libraries with versions
-- README.md            # Project documentation
+## 📁 Project Structure
+
+The folder contains the following important files:
+
+- `app.py`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Streamlit app script  
+- `kddcup.csv`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Dataset file  
+- `requirements.txt`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Required libraries with versions  
+- `README.md`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Project documentation  
+
 
 
 ### Required Python Libraries
